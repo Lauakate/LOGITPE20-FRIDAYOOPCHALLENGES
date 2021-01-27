@@ -1,0 +1,12 @@
+C:\Users\PC\source\repos\FridayOOPChallenges\FridayOOPChallenges\bin\Debug\netcoreapp3.1\FridayOOPChallenges.exe
+C:\Users\PC\source\repos\FridayOOPChallenges\FridayOOPChallenges\bin\Debug\netcoreapp3.1\FridayOOPChallenges.deps.json
+C:\Users\PC\source\repos\FridayOOPChallenges\FridayOOPChallenges\bin\Debug\netcoreapp3.1\FridayOOPChallenges.runtimeconfig.json
+C:\Users\PC\source\repos\FridayOOPChallenges\FridayOOPChallenges\bin\Debug\netcoreapp3.1\FridayOOPChallenges.runtimeconfig.dev.json
+C:\Users\PC\source\repos\FridayOOPChallenges\FridayOOPChallenges\bin\Debug\netcoreapp3.1\FridayOOPChallenges.dll
+C:\Users\PC\source\repos\FridayOOPChallenges\FridayOOPChallenges\bin\Debug\netcoreapp3.1\FridayOOPChallenges.pdb
+C:\Users\PC\source\repos\FridayOOPChallenges\FridayOOPChallenges\obj\Debug\netcoreapp3.1\FridayOOPChallenges.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\FridayOOPChallenges\FridayOOPChallenges\obj\Debug\netcoreapp3.1\FridayOOPChallenges.AssemblyInfo.cs
+C:\Users\PC\source\repos\FridayOOPChallenges\FridayOOPChallenges\obj\Debug\netcoreapp3.1\FridayOOPChallenges.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\FridayOOPChallenges\FridayOOPChallenges\obj\Debug\netcoreapp3.1\FridayOOPChallenges.dll
+C:\Users\PC\source\repos\FridayOOPChallenges\FridayOOPChallenges\obj\Debug\netcoreapp3.1\FridayOOPChallenges.pdb
+C:\Users\PC\source\repos\FridayOOPChallenges\FridayOOPChallenges\obj\Debug\netcoreapp3.1\FridayOOPChallenges.genruntimeconfig.cache
